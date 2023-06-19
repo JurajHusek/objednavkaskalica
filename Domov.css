@@ -7,8 +7,14 @@
 }
 
 .u-section-1 .u-text-1 {
-  width: 677px;
+  width: 740px;
   margin: 60px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
 }
 
 @media (max-width: 767px) {
