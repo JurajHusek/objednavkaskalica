@@ -169,6 +169,7 @@
 .u-section-4 .u-group-1 {
   width: 516px;
   min-height: 68px;
+  animation-duration: 1000ms;
   margin: 57px auto 0 312px;
 }
 
@@ -198,6 +199,10 @@
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   grid-auto-rows: calc(33.33% - 6.66667px);
   grid-gap: 10px 10px;
+}
+
+.u-section-4 .u-list-item-1 {
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -235,6 +240,10 @@
   font-size: 1.25rem;
 }
 
+.u-section-4 .u-list-item-2 {
+  animation-duration: 1000ms;
+}
+
 .u-section-4 .u-container-layout-4 {
   padding: 30px 30px 30px 16px;
 }
@@ -267,6 +276,10 @@
 .u-section-4 .u-text-5 {
   font-size: 1.25rem;
   margin: 20px 0 0;
+}
+
+.u-section-4 .u-list-item-3 {
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-6 {
@@ -303,6 +316,10 @@
   margin: 20px 0 0;
 }
 
+.u-section-4 .u-list-item-4 {
+  animation-duration: 1000ms;
+}
+
 .u-section-4 .u-container-layout-8 {
   padding: 30px 30px 30px 16px;
 }
@@ -337,6 +354,10 @@
   margin: 20px 0 0;
 }
 
+.u-section-4 .u-list-item-5 {
+  animation-duration: 1000ms;
+}
+
 .u-section-4 .u-container-layout-10 {
   padding: 30px 30px 30px 16px;
 }
@@ -369,6 +390,10 @@
 .u-section-4 .u-text-11 {
   font-size: 1.25rem;
   margin: 20px 0 0;
+}
+
+.u-section-4 .u-list-item-6 {
+  animation-duration: 1000ms;
 }
 
 .u-section-4 .u-container-layout-12 {
@@ -1388,7 +1413,7 @@
   }
 }.u-section-12 {
   background-image: none;
-  min-height: 304px;
+  min-height: 350px;
 }
 
 .u-section-12 .u-custom-html-1 {
@@ -1399,7 +1424,7 @@
 .u-section-12 .u-gallery-1 {
   width: calc(((100% - 1140px) / 2) + 551px);
   height: 304px;
-  margin: -304px 0 0 auto;
+  margin: -304px 0 46px auto;
 }
 
 .u-section-12 .u-carousel-indicators-1 {
