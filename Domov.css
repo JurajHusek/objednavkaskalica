@@ -2158,7 +2158,6 @@
 .u-section-15 .u-custom-html-1 {
   min-height: 304px;
   width: 650px;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -2206,6 +2205,7 @@
 
   .u-section-15 .u-custom-html-1 {
     min-height: 326px;
+    height: auto;
   }
 
   .u-section-15 .u-gallery-1 {
